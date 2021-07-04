@@ -34,6 +34,7 @@ public class Armstrong {
 			System.out.println("It is a Armstrong number");
 		} else {
 			System.out.println("It is not a Armstrong number");
+			System.out.println("Assignment");
 			scanner.close();
 		}
 
